@@ -52,7 +52,7 @@ Stuck on a word? No problem! Utilize the "Hints" button to reveal a helpful hint
 
 ### Team Collaboration
 
-The Hangman web app project was a collaborative effort led by Mayank Singla as the developer, with exemplary management support from Jatin and meticulous testing by Mehak. This successful teamwork ensured the smooth development and delivery of an engaging and polished Hangman game.
+The Hangman web app project was a collaborative effort led by Mayank Singla as the developer, with exemplary management support from Jatin Gupta and meticulous testing by Mehak Sharma. This successful teamwork ensured the smooth development and delivery of an engaging and polished Hangman game.
 
 ## Conclusion
 
